@@ -24,6 +24,10 @@ public class OperationsTest {
 
 	private Square square;
 
+	/**
+	 * Test Java doc
+	 * @throws Exception
+	 */
 	@Before
 	public void setUp() throws Exception {
 		new Plus();
